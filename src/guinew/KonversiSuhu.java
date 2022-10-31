@@ -1,4 +1,4 @@
-package gui;
+package guinew;
 
 import java.text.DecimalFormat;
 import javax.swing.JOptionPane;

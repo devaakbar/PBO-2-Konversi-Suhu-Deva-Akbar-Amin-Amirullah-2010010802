@@ -1,4 +1,4 @@
-package konversisuhu;
+package gui;
 
 import java.text.DecimalFormat;
 import javax.swing.JOptionPane;
